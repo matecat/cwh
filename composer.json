@@ -1,5 +1,5 @@
 {
-    "name": "phpnexus/cwh",
+    "name": "matecat/cwh",
     "homepage": "https://github.com/phpnexus/cwh",
     "type": "library",
     "description": "AWS CloudWatch Handler for Monolog library",
